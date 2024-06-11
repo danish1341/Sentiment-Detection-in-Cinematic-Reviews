@@ -3,7 +3,7 @@
 # Objective
 This project focuses on developing and implementing a sentiment detection system for cinematic reviews. The goal is to create a tool that can automatically analyze movie reviews and classify the sentiment expressed in them as positive, negative, or neutral. This can be particularly useful for filmmakers, marketers, and movie enthusiasts to gauge public opinion and feedback on films.
 
-                            ![th](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a6060f5e-ba2d-4889-90ca-eeb7b58bbbfe)
+![th](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a6060f5e-ba2d-4889-90ca-eeb7b58bbbfe)
 
 
 # Data Set
@@ -52,7 +52,7 @@ Predators:
 * K-Nearest Neighbor
 * XGBOOST
 
-  ![odel Accuracies](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a8232319-3271-4012-9f23-1bd5d479fba7
+![odel Accuracies](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a8232319-3271-4012-9f23-1bd5d479fba7
 
 
 # LSTM MODEL
