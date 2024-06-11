@@ -3,6 +3,9 @@
 # Objective
 This project focuses on developing and implementing a sentiment detection system for cinematic reviews. The goal is to create a tool that can automatically analyze movie reviews and classify the sentiment expressed in them as positive, negative, or neutral. This can be particularly useful for filmmakers, marketers, and movie enthusiasts to gauge public opinion and feedback on films.
 
+![th](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a6060f5e-ba2d-4889-90ca-eeb7b58bbbfe)
+
+
 # Data Set
 
 IMDB dataset having 50K movie reviews for natural language processing or Text analytics.
