@@ -3,7 +3,7 @@
 # Objective
 This project focuses on developing and implementing a sentiment detection system for cinematic reviews. The goal is to create a tool that can automatically analyze movie reviews and classify the sentiment expressed in them as positive, negative, or neutral. This can be particularly useful for filmmakers, marketers, and movie enthusiasts to gauge public opinion and feedback on films.
 
-![th](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a6060f5e-ba2d-4889-90ca-eeb7b58bbbfe)
+                            ![th](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a6060f5e-ba2d-4889-90ca-eeb7b58bbbfe)
 
 
 # Data Set
@@ -18,6 +18,7 @@ Data fields:
 # Inspect and explore data
 
 We encountered no issues with data types and found no null values. We did, however, identify and remove some duplicate entries. The relative frequencies of the classes in the dataset are close, indicating that the data is balanced.
+![Capture](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/ba27cd23-c032-4108-8b9c-55372502f125)
 
 # Data cleaning
 
@@ -51,6 +52,9 @@ Predators:
 * K-Nearest Neighbor
 * XGBOOST
 
+  ![odel Accuracies](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a8232319-3271-4012-9f23-1bd5d479fba7
+
+
 # LSTM MODEL
 
 First, we processing the data:
@@ -66,6 +70,8 @@ The models basic structure:
 2. LSTM layers: Next, we added an LSTM layer. LSTM layers are effective in processing sequences (like text), as they can capture the temporal dependencies between elements in the sequence.
 3. Dense layers: After the LSTM layers, we included a dense (fully connected) layer. We used the ‘sigmoid’ activation function. We also added dropout to these layers to avoid overfitting.
 4. We then trained our model on our preprocessed reviews and sentiments, using a batch size of 264 and running for 10 epochs. We also included early stopping in our training to prevent overfitting.
+
+   ![g](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/ac7a4637-f25f-4615-a455-bd2d80bcd631)
 
 # Further Work
 
