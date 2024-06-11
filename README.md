@@ -52,7 +52,7 @@ Predators:
 * K-Nearest Neighbor
 * XGBOOST
 
-![odel Accuracies](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/a8232319-3271-4012-9f23-1bd5d479fba7
+![odel Accuracies](https://github.com/danish1341/Sentiment-Detection-in-Cinematic-Reviews/assets/167858464/4d592d29-7bcb-492c-8275-a38953af7eac)
 
 
 # LSTM MODEL
